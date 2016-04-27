@@ -1,0 +1,1 @@
+var deathRayDMG = 9001;
